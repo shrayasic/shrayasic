@@ -32,6 +32,17 @@ A cross-platform app with:
 - Real-time movie data integration via TMDB and RapidAPI.  
 - Curated cinema-related video feeds and engaging UI/UX.
 
+### Resourcify – Resource Management System (Flask, React, MongoDB)
+A web app for managing topics and resources with:
+- Secure user authentication via JWT tokens.
+- Topic and subtopic creation, update, and deletion.
+- File uploads to Cloudinary for resource management.
+- Responsive UI built with React and Tailwind CSS.
+Technologies Used
+- **Backend**: Flask, Flask-CORS, Flask-PyMongo, Flask-Bcrypt, Flask-JWT-Extended, MongoDB, Cloudinary, dotenv.
+- **Frontend**: React, Vite, Tailwind CSS, Axios.
+
+
 ### 3. InvestHub – Stock Market Analysis Platform *(Python, Tkinter, MySQL)*  
 A GUI-based platform offering:  
 - Stock analysis, charting, comparison, and real-time notifications.  
